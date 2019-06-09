@@ -1,6 +1,6 @@
 # nifi-flows
 
-* This repository contains Apache NiFi sample flows for Pontus Vision GDPR solution demo used by EXL Services within Unity Data Asset Managment Solution
+* This repository contains Apache NiFi sample flows for Pontus Vision GDPR solution demo used by EXL Services within Unity Data Asset Management Solution
 
 ## Data Mart
 * Runs Gremlin Traversals to capture 12 key metrics recommended by ICO for GDPR compliance and ingest them to MySQL data mart for further visualisation
